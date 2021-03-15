@@ -11,4 +11,8 @@ String name, Model model) {
  model.addAttribute("name", name);
  return "greeting";
  }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> be4dbe799f953f8f15f1e96d93dd7b37c93a047f
