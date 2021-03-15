@@ -10,6 +10,7 @@ public class GreetingController {
 String name, Model model) {
  model.addAttribute("name", name);
  return "greeting";
+ //test
  }
 <<<<<<< HEAD
 }
