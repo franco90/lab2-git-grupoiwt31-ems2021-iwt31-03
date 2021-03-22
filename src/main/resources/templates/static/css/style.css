@@ -21,7 +21,8 @@ margin-top: -50px;
 height: 40px;
 padding:5px 0px;
 clear: both;
-background: #d7e0e9;
+/*background: #d7e0e9;*/
+background-color: blue;
 text-align: center;
 color: black;
 }
